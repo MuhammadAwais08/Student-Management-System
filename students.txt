@@ -1,3 +1,4 @@
 Muhammad Ali,21,456,Web Development,78.0
-Raza,23,567,AI,75.0
 Muhammad Awais Raza,22,485,Computer Science,85.0
+Awais Raza,21,102,Artificial Intelligence,88.0
+Rana Ali,26,110,Data Science,87.0
