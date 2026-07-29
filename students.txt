@@ -1,0 +1,3 @@
+Muhammad Ali,21,456,Web Development,78.0
+Raza,23,567,AI,75.0
+Muhammad Awais Raza,22,485,Computer Science,85.0
