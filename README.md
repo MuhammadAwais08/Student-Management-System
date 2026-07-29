@@ -106,4 +106,4 @@ Bachelor of Computer Science
 Learning AI Engineering & Software Development
 
 GitHub:
-(Add your GitHub profile link)
+(https://github.com/MuhammadAwais08/Student-Management-System.git)
