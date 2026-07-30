@@ -97,37 +97,37 @@ python main.py
 
 ## 🏠 Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](Screenshots/menu.png)
 
 ---
 
 ## ➕ Add Student
 
-![Add Student](screenshots/add_student.png)
+![Add Student](Screenshots/add_student.png)
 
 ---
 
 ## 📋 View Students
 
-![View Students](screenshots/view_students.png)
+![View Students](Screenshots/view_students.png)
 
 ---
 
 ## 🔍 Search Student
 
-![Search Student](screenshots/search_student.png)
+![Search Student](Screenshots/search_student.png)
 
 ---
 
 ## ✏️ Update Student
 
-![Update Student](screenshots/update_student.png)
+![Update Student](Screenshots/update_student.png)
 
 ---
 
 ## 🗑️ Delete Student
 
-![Delete Student](screenshots/delete_student.png)
+![Delete Student](Screenshots/delete_student.png)
 
 ---
 
