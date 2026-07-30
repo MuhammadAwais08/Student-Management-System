@@ -93,7 +93,41 @@ python main.py
 
 # 📸 Project Preview
 
-(Add screenshots here later.)
+# 📸 Project Preview
+
+## 🏠 Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+---
+
+## ➕ Add Student
+
+![Add Student](screenshots/add_student.png)
+
+---
+
+## 📋 View Students
+
+![View Students](screenshots/view_students.png)
+
+---
+
+## 🔍 Search Student
+
+![Search Student](screenshots/search_student.png)
+
+---
+
+## ✏️ Update Student
+
+![Update Student](screenshots/update_student.png)
+
+---
+
+## 🗑️ Delete Student
+
+![Delete Student](screenshots/delete_student.png)
 
 ---
 
