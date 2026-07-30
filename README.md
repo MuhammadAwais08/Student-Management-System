@@ -99,7 +99,7 @@ python main.py
 
 ### ➕ Add Student
 
-![Add Student](Screenshots/add_student.PNG)
+![Add Student](Screenshots/add_student.png)
 
 ### 📋 View Student
 
