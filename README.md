@@ -97,39 +97,31 @@ python main.py
 
 ## 🏠 Main Menu
 
+## 📸 Project Preview
+
+### 🏠 Main Menu
+
 ![Main Menu](Screenshots/menu.png)
 
----
-
-## ➕ Add Student
+### ➕ Add Student
 
 ![Add Student](Screenshots/add_student.png)
 
----
+### 📋 View Student
 
-## 📋 View Students
+![View Student](Screenshots/view_student.png)
 
-![View Students](Screenshots/view_students.png)
-
----
-
-## 🔍 Search Student
+### 🔍 Search Student
 
 ![Search Student](Screenshots/search_student.png)
 
----
-
-## ✏️ Update Student
+### ✏️ Update Student
 
 ![Update Student](Screenshots/update_student.png)
 
----
-
-## 🗑️ Delete Student
+### 🗑️ Delete Student
 
 ![Delete Student](Screenshots/delete_student.png)
-
----
 
 # 👨‍💻 Author
 
